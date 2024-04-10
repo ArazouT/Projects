@@ -12,4 +12,6 @@ Some of the questions I aimed to address were:
 - Analyzed different features including class types, prices, ratings,… across different cities.
 - Through the analysis, identified high ROI potential cities that are underserved in certain categories, similarly categories that generate a lot of enthusiasm on the platform but are undersupplied.
 
-https://www.notion.so/arezootirdad/ClassPass-com-Data-Analysis-6e4682176f394cd6aa27f85067853104?pvs=4#8e1fc9044c32422cb9bb530dbefcc3d8
+![image](https://github.com/ArazouT/Projects/assets/149212223/ff274e14-035e-4237-8a97-63778bd99874)
+
+![image](https://github.com/ArazouT/Projects/assets/149212223/6894a4d7-d173-4f9a-bb9c-f66074623aea)
