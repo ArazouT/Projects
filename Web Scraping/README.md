@@ -11,7 +11,3 @@ Some of the questions I aimed to address were:
 - Created visualizations using Matplotlib and Seaborn.
 - Analyzed different features including class types, prices, ratings,… across different cities.
 - Through the analysis, identified high ROI potential cities that are underserved in certain categories, similarly categories that generate a lot of enthusiasm on the platform but are undersupplied.
-
-![image](https://github.com/ArazouT/Projects/assets/149212223/ff274e14-035e-4237-8a97-63778bd99874)
-
-![image](https://github.com/ArazouT/Projects/assets/149212223/6894a4d7-d173-4f9a-bb9c-f66074623aea)
