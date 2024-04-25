@@ -1,5 +1,5 @@
 ### Idea:
-A webscraping project to perform statistical analysis of various fitness classes available on [ClassPass.com](http://ClassPass.com) in the greater Toronto area and gather insights relevant to potential investors or fitness enthusiasts. 
+A webscraping project to perform statistical analysis of various fitness classes available on [ClassPass.com](http://ClassPass.com) in the greater Toronto area and to gather insights relevant to potential investors or fitness enthusiasts. 
 
 Some of the questions I aimed to address were:
 
